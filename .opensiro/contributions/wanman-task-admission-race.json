@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "wanman-task-admission-race",
+  "original_repository": "chekusu/wanman",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/wanman-s2/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-11-09-18.json"
+  ],
+  "title": "Serialize conflicting concurrent task admission",
+  "work_state": "DELIVERED",
+  "next_action": "Historical metadata only. No new engineering or external publication until explicit owner RESUME and fresh source/policy verification.",
+  "source_revision": "d3a8138de6c21981a4f1449a7b3f201e724c55c9",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/wanman-s2/native-fix.patch",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/wanman-s2/CONTRIBUTION_HANDOFF.md"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/chekusu/wanman/pull/38"
+  ],
+  "last_event_id": null
+}
